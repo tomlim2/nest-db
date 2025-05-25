@@ -14,3 +14,5 @@ channel.on(
 	}
 );
 channel.subscribe();
+
+new QRCode(document.querySelector("#qrcode"), location.origin);

@@ -14,3 +14,14 @@ main {
   margin-top: 3rem;
   font-size: 3rem;
 }
+
+#qrcode {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  width: 20vh;
+}
+
+#qrcode img{
+  width: 100%;
+}
